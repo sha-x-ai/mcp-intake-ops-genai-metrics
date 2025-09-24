@@ -1,5 +1,8 @@
 # MCP Intake Ops – GenAI + Metrics Sample Repo
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9e25384c-a36e-47c1-8a8a-7038b6f5f83a" />
+
+
 This repository implements an **MCP-connected intake agent** that routes user requests to specialized tools for:
 
 1. Parts search (synthetic aerospace inventory)  
