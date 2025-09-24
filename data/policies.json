@@ -1,0 +1,14 @@
+{
+  "default": {
+    "export_ok": true,
+    "supplier_risk_threshold": 0.7
+  },
+  "A320": {
+    "export_ok": true,
+    "supplier_risk_threshold": 0.6
+  },
+  "A350": {
+    "export_ok": false,
+    "supplier_risk_threshold": 0.5
+  }
+}

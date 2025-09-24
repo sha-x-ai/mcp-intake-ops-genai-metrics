@@ -1,0 +1,6 @@
+part_id,platform,description,stock,supplier,export_flag
+RVT-1001,A320,Titanium rivet 3mm,1200,Alpha,OK
+RVT-2002,A350,Aluminum rivet 5mm,800,Beta,RESTRICTED
+BLT-3001,A320,High-torque bolt M6,450,Delta,OK
+SCR-4100,A320,Stainless screw,2200,Gamma,OK
+BLT-3333,A350,Shear bolt M8,120,Omega,RESTRICTED
